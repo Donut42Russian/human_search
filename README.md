@@ -3,7 +3,7 @@
 
 # 2) Разведочный анализ данных (Data understanding)
   1.	Сбор данных (Data collection)
-  Все данные взяты из Lacmus Drone Dataset.
+  Все данные взяты из Lacmus Drone Dataset (https://www.kaggle.com/datasets/mersico/lacmus-drone-dataset-ladd-v40).
   2.	Описание данных (Data description)
   Данные состоят из 406 изображений в формате .jpg и 406 YOLO описаний, хранящихся в .txt формате и содержащих координаты объекта с номером его класса. Имеется только один класс у всех объектов, обозначающий людей.
   3.	Исследование данных (Data exploration)
